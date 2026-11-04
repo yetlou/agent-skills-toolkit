@@ -1,0 +1,25 @@
+# 运行时产物（雷达）
+state/
+out/
+logs/
+*.log
+
+# 依赖
+node_modules/
+
+# 本机/环境文件，绝不入库
+.env
+.env.*
+*.bak
+*.bak-*
+config.yaml.bak-*
+*.local
+auth*.json
+*-auth.json
+storage-state*.json
+*.pem
+*.key
+.npmrc
+.DS_Store
+__pycache__/
+*.pyc
