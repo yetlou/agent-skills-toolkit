@@ -1,0 +1,55 @@
+{
+ "hits": [
+  {
+   "objectID": "46990729",
+   "title": "An AI agent published a hit piece on me",
+   "url": "https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me/",
+   "points": 2346,
+   "num_comments": 951,
+   "created_at": "2026-02-12T16:23:24Z",
+   "created_at_i": 1770913404,
+   "author": "scottshambaugh",
+   "_tags": [
+    "story",
+    "author_scottshambaugh",
+    "story_46990729"
+   ]
+  },
+  {
+   "objectID": "49563355",
+   "title": "Discovery of a new OpenAI agent message board",
+   "url": "https://collusion.wiki/",
+   "points": 2301,
+   "num_comments": 1603,
+   "created_at": "2026-09-04T11:54:53Z",
+   "created_at_i": 1788522893,
+   "author": "moultano",
+   "_tags": [
+    "story",
+    "author_moultano",
+    "story_49563355"
+   ]
+  },
+  {
+   "objectID": "48500012",
+   "title": "AI agent bankrupted their operator while trying to scan DN42",
+   "url": "https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/",
+   "points": 1467,
+   "num_comments": 536,
+   "created_at": "2026-06-12T04:42:53Z",
+   "created_at_i": 1781239373,
+   "author": "xiaoyu2006",
+   "_tags": [
+    "story",
+    "author_xiaoyu2006",
+    "story_48500012"
+   ]
+  }
+ ],
+ "nbHits": 1067,
+ "page": 0,
+ "nbPages": 1,
+ "hitsPerPage": 3,
+ "query": "agent",
+ "params": "query=agent&tags=story&numericFilters=points%3E150&hitsPerPage=5&advancedSyntax=true&analyticsTags=backend"
+}

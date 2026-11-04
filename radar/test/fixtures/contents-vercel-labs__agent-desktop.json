@@ -1,0 +1,200 @@
+[
+ {
+  "name": ".agents",
+  "path": ".agents",
+  "type": "dir",
+  "size": 0
+ },
+ {
+  "name": ".claude",
+  "path": ".claude",
+  "type": "symlink",
+  "size": 7
+ },
+ {
+  "name": ".gitattributes",
+  "path": ".gitattributes",
+  "type": "file",
+  "size": 49
+ },
+ {
+  "name": ".githooks",
+  "path": ".githooks",
+  "type": "dir",
+  "size": 0
+ },
+ {
+  "name": ".github",
+  "path": ".github",
+  "type": "dir",
+  "size": 0
+ },
+ {
+  "name": ".gitignore",
+  "path": ".gitignore",
+  "type": "file",
+  "size": 1757
+ },
+ {
+  "name": ".gitleaks.toml",
+  "path": ".gitleaks.toml",
+  "type": "file",
+  "size": 3567
+ },
+ {
+  "name": ".gitleaksignore",
+  "path": ".gitleaksignore",
+  "type": "file",
+  "size": 570
+ },
+ {
+  "name": "AGENTS.md",
+  "path": "AGENTS.md",
+  "type": "file",
+  "size": 21833
+ },
+ {
+  "name": "CHANGELOG.md",
+  "path": "CHANGELOG.md",
+  "type": "file",
+  "size": 39006
+ },
+ {
+  "name": "CODE_OF_CONDUCT.md",
+  "path": "CODE_OF_CONDUCT.md",
+  "type": "file",
+  "size": 5491
+ },
+ {
+  "name": "CONCEPTS.md",
+  "path": "CONCEPTS.md",
+  "type": "file",
+  "size": 43344
+ },
+ {
+  "name": "CONTRIBUTING.md",
+  "path": "CONTRIBUTING.md",
+  "type": "file",
+  "size": 9205
+ },
+ {
+  "name": "Cargo.lock",
+  "path": "Cargo.lock",
+  "type": "file",
+  "size": 40377
+ },
+ {
+  "name": "Cargo.toml",
+  "path": "Cargo.toml",
+  "type": "file",
+  "size": 1909
+ },
+ {
+  "name": "LICENSE",
+  "path": "LICENSE",
+  "type": "file",
+  "size": 11358
+ },
+ {
+  "name": "README.md",
+  "path": "README.md",
+  "type": "file",
+  "size": 8950
+ },
+ {
+  "name": "SECURITY.md",
+  "path": "SECURITY.md",
+  "type": "file",
+  "size": 733
+ },
+ {
+  "name": "SUPPORT.md",
+  "path": "SUPPORT.md",
+  "type": "file",
+  "size": 1403
+ },
+ {
+  "name": "apps",
+  "path": "apps",
+  "type": "dir",
+  "size": 0
+ },
+ {
+  "name": "assets",
+  "path": "assets",
+  "type": "dir",
+  "size": 0
+ },
+ {
+  "name": "benchmarks",
+  "path": "benchmarks",
+  "type": "dir",
+  "size": 0
+ },
+ {
+  "name": "clippy.toml",
+  "path": "clippy.toml",
+  "type": "file",
+  "size": 36
+ },
+ {
+  "name": "crates",
+  "path": "crates",
+  "type": "dir",
+  "size": 0
+ },
+ {
+  "name": "deny.toml",
+  "path": "deny.toml",
+  "type": "file",
+  "size": 1249
+ },
+ {
+  "name": "docs",
+  "path": "docs",
+  "type": "dir",
+  "size": 0
+ },
+ {
+  "name": "npm",
+  "path": "npm",
+  "type": "dir",
+  "size": 0
+ },
+ {
+  "name": "probes",
+  "path": "probes",
+  "type": "dir",
+  "size": 0
+ },
+ {
+  "name": "rust-toolchain.toml",
+  "path": "rust-toolchain.toml",
+  "type": "file",
+  "size": 88
+ },
+ {
+  "name": "scripts",
+  "path": "scripts",
+  "type": "dir",
+  "size": 0
+ },
+ {
+  "name": "skills",
+  "path": "skills",
+  "type": "dir",
+  "size": 0
+ },
+ {
+  "name": "src",
+  "path": "src",
+  "type": "dir",
+  "size": 0
+ },
+ {
+  "name": "tests",
+  "path": "tests",
+  "type": "dir",
+  "size": 0
+ }
+]

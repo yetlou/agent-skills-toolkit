@@ -1,0 +1,33 @@
+{
+ "full_name": "vercel-labs/agent-desktop",
+ "html_url": "https://github.com/vercel-labs/agent-desktop",
+ "description": "Computer use CLI for AI agents",
+ "language": "Rust",
+ "stargazers_count": 12821,
+ "forks_count": 883,
+ "open_issues_count": 147,
+ "license": {
+  "key": "apache-2.0",
+  "spdx_id": "Apache-2.0",
+  "name": "Apache License 2.0"
+ },
+ "topics": [
+  "accessibility",
+  "accessibility-api",
+  "ai-agents",
+  "automation",
+  "cli",
+  "computer-use",
+  "computer-use-agent",
+  "computer-use-agents",
+  "desktop-automation",
+  "macos",
+  "mcp",
+  "rust"
+ ],
+ "created_at": "2026-02-19T18:00:49Z",
+ "pushed_at": "2026-11-03T23:16:15Z",
+ "archived": false,
+ "homepage": "https://agent-browser.dev/desktop",
+ "default_branch": "main"
+}

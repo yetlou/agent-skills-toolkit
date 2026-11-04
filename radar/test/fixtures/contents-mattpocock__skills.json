@@ -1,0 +1,116 @@
+[
+ {
+  "name": ".agents",
+  "path": ".agents",
+  "type": "dir",
+  "size": 0
+ },
+ {
+  "name": ".changeset",
+  "path": ".changeset",
+  "type": "dir",
+  "size": 0
+ },
+ {
+  "name": ".claude-plugin",
+  "path": ".claude-plugin",
+  "type": "dir",
+  "size": 0
+ },
+ {
+  "name": ".github",
+  "path": ".github",
+  "type": "dir",
+  "size": 0
+ },
+ {
+  "name": ".gitignore",
+  "path": ".gitignore",
+  "type": "file",
+  "size": 21
+ },
+ {
+  "name": ".out-of-scope",
+  "path": ".out-of-scope",
+  "type": "dir",
+  "size": 0
+ },
+ {
+  "name": "AGENTS.md",
+  "path": "AGENTS.md",
+  "type": "file",
+  "size": 9
+ },
+ {
+  "name": "CHANGELOG.md",
+  "path": "CHANGELOG.md",
+  "type": "file",
+  "size": 66893
+ },
+ {
+  "name": "CLAUDE.md",
+  "path": "CLAUDE.md",
+  "type": "file",
+  "size": 4206
+ },
+ {
+  "name": "CONTRIBUTING.md",
+  "path": "CONTRIBUTING.md",
+  "type": "file",
+  "size": 1552
+ },
+ {
+  "name": "GLOSSARY.md",
+  "path": "GLOSSARY.md",
+  "type": "file",
+  "size": 1768
+ },
+ {
+  "name": "LICENSE",
+  "path": "LICENSE",
+  "type": "file",
+  "size": 1068
+ },
+ {
+  "name": "README.md",
+  "path": "README.md",
+  "type": "file",
+  "size": 16461
+ },
+ {
+  "name": "SCOPE.md",
+  "path": "SCOPE.md",
+  "type": "file",
+  "size": 2348
+ },
+ {
+  "name": "docs",
+  "path": "docs",
+  "type": "dir",
+  "size": 0
+ },
+ {
+  "name": "package-lock.json",
+  "path": "package-lock.json",
+  "type": "file",
+  "size": 49290
+ },
+ {
+  "name": "package.json",
+  "path": "package.json",
+  "type": "file",
+  "size": 597
+ },
+ {
+  "name": "scripts",
+  "path": "scripts",
+  "type": "dir",
+  "size": 0
+ },
+ {
+  "name": "skills",
+  "path": "skills",
+  "type": "dir",
+  "size": 0
+ }
+]

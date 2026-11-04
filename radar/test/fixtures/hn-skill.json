@@ -1,0 +1,55 @@
+{
+ "hits": [
+  {
+   "objectID": "23848039",
+   "title": "Tech sector job interviews assess anxiety, not software skills: study",
+   "url": "https://news.ncsu.edu/2020/07/tech-job-interviews-anxiety/",
+   "points": 1782,
+   "num_comments": 1141,
+   "created_at": "2020-07-15T17:00:30Z",
+   "created_at_i": 1594832430,
+   "author": "sizzle",
+   "_tags": [
+    "story",
+    "author_sizzle",
+    "story_23848039"
+   ]
+  },
+  {
+   "objectID": "33330864",
+   "title": "My dad's resume and skills from 1980",
+   "url": "https://github.com/runvnc/dadsresume",
+   "points": 1482,
+   "num_comments": 583,
+   "created_at": "2022-10-25T14:25:15Z",
+   "created_at_i": 1666707915,
+   "author": "metadat",
+   "_tags": [
+    "story",
+    "author_metadat",
+    "story_33330864"
+   ]
+  },
+  {
+   "objectID": "17163251",
+   "title": "The Importance of Deep Work and the 30-Hour Method for Learning a New Skill",
+   "url": "https://azeria-labs.com/the-importance-of-deep-work-the-30-hour-method-for-learning-a-new-skill/",
+   "points": 1331,
+   "num_comments": 197,
+   "created_at": "2018-05-26T17:37:51Z",
+   "created_at_i": 1527356271,
+   "author": "ingve",
+   "_tags": [
+    "story",
+    "author_ingve",
+    "story_17163251"
+   ]
+  }
+ ],
+ "nbHits": 1821,
+ "page": 0,
+ "nbPages": 1,
+ "hitsPerPage": 3,
+ "query": "skill",
+ "params": "query=skill&tags=story&numericFilters=points%3E150&hitsPerPage=5&advancedSyntax=true&analyticsTags=backend"
+}

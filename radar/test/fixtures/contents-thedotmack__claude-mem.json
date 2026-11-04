@@ -1,0 +1,218 @@
+[
+ {
+  "name": ".agents",
+  "path": ".agents",
+  "type": "dir",
+  "size": 0
+ },
+ {
+  "name": ".claude-plugin",
+  "path": ".claude-plugin",
+  "type": "dir",
+  "size": 0
+ },
+ {
+  "name": ".claude",
+  "path": ".claude",
+  "type": "dir",
+  "size": 0
+ },
+ {
+  "name": ".codex-plugin",
+  "path": ".codex-plugin",
+  "type": "dir",
+  "size": 0
+ },
+ {
+  "name": ".cursor-plugin",
+  "path": ".cursor-plugin",
+  "type": "dir",
+  "size": 0
+ },
+ {
+  "name": ".dockerignore",
+  "path": ".dockerignore",
+  "type": "file",
+  "size": 65
+ },
+ {
+  "name": ".gitattributes",
+  "path": ".gitattributes",
+  "type": "file",
+  "size": 222
+ },
+ {
+  "name": ".github",
+  "path": ".github",
+  "type": "dir",
+  "size": 0
+ },
+ {
+  "name": ".gitignore",
+  "path": ".gitignore",
+  "type": "file",
+  "size": 1272
+ },
+ {
+  "name": ".grok-plugin",
+  "path": ".grok-plugin",
+  "type": "dir",
+  "size": 0
+ },
+ {
+  "name": ".npmrc",
+  "path": ".npmrc",
+  "type": "file",
+  "size": 22
+ },
+ {
+  "name": ".qoder-plugin",
+  "path": ".qoder-plugin",
+  "type": "dir",
+  "size": 0
+ },
+ {
+  "name": "LICENSE",
+  "path": "LICENSE",
+  "type": "file",
+  "size": 11358
+ },
+ {
+  "name": "NOTICE",
+  "path": "NOTICE",
+  "type": "file",
+  "size": 242
+ },
+ {
+  "name": "README.md",
+  "path": "README.md",
+  "type": "file",
+  "size": 20957
+ },
+ {
+  "name": "bunfig.toml",
+  "path": "bunfig.toml",
+  "type": "file",
+  "size": 316
+ },
+ {
+  "name": "claude-mem-cursor",
+  "path": "claude-mem-cursor",
+  "type": "dir",
+  "size": 0
+ },
+ {
+  "name": "claude-mem-grok-bot",
+  "path": "claude-mem-grok-bot",
+  "type": "dir",
+  "size": 0
+ },
+ {
+  "name": "cowork",
+  "path": "cowork",
+  "type": "dir",
+  "size": 0
+ },
+ {
+  "name": "docker-compose.yml",
+  "path": "docker-compose.yml",
+  "type": "file",
+  "size": 9587
+ },
+ {
+  "name": "docker",
+  "path": "docker",
+  "type": "dir",
+  "size": 0
+ },
+ {
+  "name": "docs",
+  "path": "docs",
+  "type": "dir",
+  "size": 0
+ },
+ {
+  "name": "dsh",
+  "path": "dsh",
+  "type": "dir",
+  "size": 0
+ },
+ {
+  "name": "hermes",
+  "path": "hermes",
+  "type": "dir",
+  "size": 0
+ },
+ {
+  "name": "install",
+  "path": "install",
+  "type": "dir",
+  "size": 0
+ },
+ {
+  "name": "ods",
+  "path": "ods",
+  "type": "dir",
+  "size": 0
+ },
+ {
+  "name": "omp",
+  "path": "omp",
+  "type": "dir",
+  "size": 0
+ },
+ {
+  "name": "openclaw",
+  "path": "openclaw",
+  "type": "dir",
+  "size": 0
+ },
+ {
+  "name": "package.json",
+  "path": "package.json",
+  "type": "file",
+  "size": 10037
+ },
+ {
+  "name": "pi",
+  "path": "pi",
+  "type": "dir",
+  "size": 0
+ },
+ {
+  "name": "plugin",
+  "path": "plugin",
+  "type": "dir",
+  "size": 0
+ },
+ {
+  "name": "scripts",
+  "path": "scripts",
+  "type": "dir",
+  "size": 0
+ },
+ {
+  "name": "services",
+  "path": "services",
+  "type": "dir",
+  "size": 0
+ },
+ {
+  "name": "src",
+  "path": "src",
+  "type": "dir",
+  "size": 0
+ },
+ {
+  "name": "tests",
+  "path": "tests",
+  "type": "dir",
+  "size": 0
+ },
+ {
+  "name": "tsconfig.json",
+  "path": "tsconfig.json",
+  "type": "file",
+  "size": 706
+ }
+]

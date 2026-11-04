@@ -1,0 +1,56 @@
+{
+ "hits": [
+  {
+   "objectID": "27424195",
+   "title": "Replit used legal threats to kill my open-source project",
+   "url": "https://intuitiveexplanations.com/tech/replit/",
+   "points": 4022,
+   "num_comments": 1274,
+   "created_at": "2021-06-07T16:08:04Z",
+   "created_at_i": 1623082084,
+   "author": "raxod502",
+   "_tags": [
+    "story",
+    "author_raxod502",
+    "story_27424195"
+   ]
+  },
+  {
+   "objectID": "42797260",
+   "title": "Show HN: I made an open-source laptop from scratch",
+   "url": "https://www.byran.ee/posts/creation/",
+   "points": 3237,
+   "num_comments": 323,
+   "created_at": "2025-01-22T20:41:52Z",
+   "created_at_i": 1737578512,
+   "author": "byran",
+   "_tags": [
+    "story",
+    "author_byran",
+    "story_42797260",
+    "show_hn"
+   ]
+  },
+  {
+   "objectID": "31344981",
+   "title": "Nvidia releases open-source GPU kernel modules",
+   "url": "https://developer.nvidia.com/blog/nvidia-releases-open-source-gpu-kernel-modules/",
+   "points": 2410,
+   "num_comments": 392,
+   "created_at": "2022-05-11T19:59:46Z",
+   "created_at_i": 1652299186,
+   "author": "ghishadow",
+   "_tags": [
+    "story",
+    "author_ghishadow",
+    "story_31344981"
+   ]
+  }
+ ],
+ "nbHits": 3082,
+ "page": 0,
+ "nbPages": 1,
+ "hitsPerPage": 3,
+ "query": "open-source",
+ "params": "query=open-source&tags=story&numericFilters=points%3E150&hitsPerPage=5&advancedSyntax=true&analyticsTags=backend"
+}
